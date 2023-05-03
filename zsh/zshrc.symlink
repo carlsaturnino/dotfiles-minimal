@@ -1,6 +1,6 @@
 export TERM="xterm-256color"
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:$HOME/Library/Python/3.7/bin:/usr/local/bin:/usr/local/opt/gettext/bin:$PATH
+export PATH=$HOME/bin:$HOME/Library/Python/3.7/bin:/usr/local/bin:/usr/local/opt/gettext/bin:/opt/ngrok:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/csaturnino/.dotfiles/oh-my-zsh

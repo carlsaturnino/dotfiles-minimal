@@ -220,5 +220,5 @@ if has('gui_running')
 endif
 
 " Remove all trailing whitespace upon save
-autocmd BufWritePre * :%s/\s+$//e
+" autocmd BufWritePre * :%s/\s+$//e
 
