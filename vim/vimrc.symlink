@@ -222,3 +222,5 @@ endif
 " Remove all trailing whitespace upon save
 " autocmd BufWritePre * :%s/\s+$//e
 
+syntax enable
+colorscheme dracula
