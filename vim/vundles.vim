@@ -34,6 +34,7 @@ Plugin 'justinmk/vim-sneak'
 " Plugin 'scrooloose/nerdcommenter'
 " Plugin 'scrooloose/nerdtree'
 " Plugin 'Xuyuanp/nerdtree-git-plugin'
+Plugin 'preservim/nerdtree'
 
 " Git related...
 Plugin 'gregsexton/gitv'
